@@ -1,4 +1,5 @@
 Graeme Marshall  
 they/them
 
-Software Engineer @ Leaflink
+Software Engineer
+Practiced "Pythonista"
